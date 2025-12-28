@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Soy+Agustin+Mourrut+👋;Junior+Developer;Estudiante+en+IES+Santa+Fe;Siempre+aprendiendo+cosas+nuevas;Me+encanta+resolver+problemas+con+software" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hola!+Soy+Agustin+Mourrut+👋;Full-Stack+Web+%26+Software+Developer;Programación+PLC+%26+Automatización;Graduado+en+Desarrollo+de+Software;Siempre+aprendiendo+cosas+nuevas" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 - 💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL`.
 - 🧠 Me encanta usar el software como solución para cualquier `problema`.
 - 📚 Siempre `aprendiendo cosas nuevas`.
-- 🌱 Actualmente aprendiendo `Spring Boot` y `PLC` y profundizando en `Next.js`.
+- 🌱 Actualmente aprendiendo `Spring Boot` y `Programación PLC`, y profundizando en `Next.js`.
 - 💼 Abierto a nuevas `oportunidades laborales`.[Podés ver mi CV acá](LINK_A_TU_CV).
 - 🌐 Portfolio: [ACÁ](LINK_A_TU_PORTFOLIO).
 
@@ -45,6 +45,12 @@
     />
   </a>
 </p>
+
+### 🏭 Industrial & Automation
+- PLC Programming (Ladder / FBD)
+- Industrial Logic Control & Automation
+- Sensors, Actuators & I/O Signals
+- Basic HMI Interaction
 
 ---
 
