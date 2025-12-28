@@ -18,7 +18,7 @@
 
 <br>
 
-- 🎓 Estudiante de `Desarrollo de Software` en [IES Santa Fe](https://iessantafe.edu.ar/).
+- 🎓 Graduado como `Desarrollador de Software` en [IES Santa Fe](https://iessantafe.edu.ar/).
 - 💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL`.
 - 🧠 Me encanta usar el software como solución para cualquier `problema`.
 - 📚 Siempre `aprendiendo cosas nuevas`.
@@ -48,19 +48,19 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/agustin-mourrut/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
 </a>
 
-<a href="https://www.instagram.com/TU-USUARIO/" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/_agusmourrut/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" />
 </a>
 
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:agusmourrut@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45" />
 </a>
 
-<a href="https://discord.com/users/TU_ID_NUMERICO" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/332629564322873345" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" />
 </a>
 
