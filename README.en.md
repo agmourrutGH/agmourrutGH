@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+I'm+Agustin+Mourrut+👋;Junior+Developer;Software+Development+Graduate;Always+learning+new+things;I+love+solving+problems+with+software" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hi!+I'm+Agustin+Mourrut+👋;Full-Stack+Web+%26+Software+Developer;PLC+Programming+%26+Automation;Software+Development+Graduate;Always+learning+new+things" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 - 💻 Experience with `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB`, and `MySQL`.
 - 🧠 I love using software as a solution to real-world `problems`.
 - 📚 Always `learning new things`.
-- 🌱 Currently learning `Spring Boot` and deepening my knowledge of `Next.js`.
+- 🌱 Currently learning `Spring Boot` and `PLC Programming`, while deepening my knowledge of `Next.js`.
 - 💼 Open to new `job opportunities`. [You can see my CV here](LINK_TO_YOUR_CV).
 - 🌐 Portfolio: [HERE](LINK_TO_YOUR_PORTFOLIO).
 
@@ -46,6 +46,12 @@
     />
   </a>
 </p>
+
+### 🏭 Industrial & Automation
+- PLC Programming (Ladder / FBD)
+- Industrial Logic Control & Automation
+- Sensors, Actuators & I/O Signals
+- Basic HMI Interaction
 
 ---
 
