@@ -26,7 +26,7 @@
 - 💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL`.
 - 🧠 Me encanta usar el software como solución para cualquier `problema`.
 - 📚 Siempre `aprendiendo cosas nuevas`.
-- 🌱 Actualmente aprendiendo `Spring Boot` y profundizando en `Next.js`.
+- 🌱 Actualmente aprendiendo `Spring Boot` y `PLC` y profundizando en `Next.js`.
 - 💼 Abierto a nuevas `oportunidades laborales`.[Podés ver mi CV acá](LINK_A_TU_CV).
 - 🌐 Portfolio: [ACÁ](LINK_A_TU_PORTFOLIO).
 
